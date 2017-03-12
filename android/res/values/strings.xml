@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CirclePong</string>
+    <string name="app_id">925244257800</string>
+    <string name="leaderboard_id">CgkIiOzr5vYaEAIQAA</string>
+    <string name="games_played_id">CgkIiOzr5vYaEAIQAQ</string>
+
+</resources>
