@@ -24,10 +24,3 @@ We have created a Configuration File and a Settings File where you can change al
 
 <h3>Documentation</h3>
 The online documentation will be updated with the buyer's questions in order to improve it. CirclePong comes with Admob Interstitial and Banners. It also has youtube tutorials in order to customize, configure the leaderboards and import the game. 
-
-<h3>What our clients say about us</h3><center>
-<img src="https://i.gyazo.com/0d3e47e9e5413620725824df97c85f76.png"/>
-<img src="https://i.gyazo.com/a7cc0341f15d8a8f3e6b76fdf98a728a.png"/>
-<img src="https://i.gyazo.com/286efa8ae974a5c2f47ea988d947db29.png"/>
-</center>
-<br>
